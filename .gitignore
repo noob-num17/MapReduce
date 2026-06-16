@@ -13,5 +13,6 @@ target_udf/
 __pycache__/
 mapper.pkl
 reducer.pkl
+.venv/
 
 output.txt
